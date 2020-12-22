@@ -15,9 +15,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/corvus_kebab.mk
+    $(LOCAL_DIR)/lineage_kebab.mk
 
 COMMON_LUNCH_CHOICES := \
-    corvus_kebab-user \
-    corvus_kebab-userdebug \
-    corvus_kebab-eng
+    lineage_kebab-user \
+    lineage_kebab-userdebug \
+    lineage_kebab-eng
